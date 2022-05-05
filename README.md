@@ -7,6 +7,8 @@ This Github respository contains the source code for a Instagram like app that u
 * [Authentication](#authentication)
 * [Cloud Storage](#cloud-storage)
 * [Firestore](#firestore)
+* [Google Service Paper](#google-service-paper)
+* [Demo Video](#demo-video)
 
 ## App Structure
 The app is an Android app that uses Google Firebase as the backend in order to manage user accounts and photos. Firebase is linked to the app through Android Studio and allows for easy downloads of dependencies and the necessary libraries to support Firebase's services.  This is due to the fact that Android Studio already has a built-in way into their IDE in order to support this.
@@ -22,3 +24,9 @@ Cloud Storage is a service provided through Firebase. It is used in order to sav
 
 ## Firestore
 Firestore is a service provided through Firebase. It is used in order to save data through collections in a form very similar to JSON. Firestore is used by enabling it in Android Studio after linking a Google Firebase account to the app and downloading all required dependencies. This project uses Firestore to save user IDs, usernames, and the URLs to the photos saved to Firebase Cloud Storage.
+
+##Google Service Paper
+https://github.com/Chris18750/Cloud-Computing-Insta-Clone/blob/main/FirebaseService.pdf
+
+##Demo Video
+https://youtu.be/bOXZ67tGiNk
