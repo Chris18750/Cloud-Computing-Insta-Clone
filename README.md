@@ -25,8 +25,8 @@ Cloud Storage is a service provided through Firebase. It is used in order to sav
 ## Firestore
 Firestore is a service provided through Firebase. It is used in order to save data through collections in a form very similar to JSON. Firestore is used by enabling it in Android Studio after linking a Google Firebase account to the app and downloading all required dependencies. This project uses Firestore to save user IDs, usernames, and the URLs to the photos saved to Firebase Cloud Storage.
 
-##Google Service Paper
+## Google Service Paper
 https://github.com/Chris18750/Cloud-Computing-Insta-Clone/blob/main/FirebaseService.pdf
 
-##Demo Video
+## Demo Video
 https://youtu.be/bOXZ67tGiNk
